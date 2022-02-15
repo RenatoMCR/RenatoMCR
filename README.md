@@ -2,7 +2,7 @@
 
 - Brazilian 🇧🇷
 - Programming since 2017 💻
-- Currently reading *"C Completo e Descomplicado"* and *"Análise de Tráfego em Redes TCP/IP"* 📚
+- Currently reading *"Análise de Tráfego em Redes TCP/IP"* 📚
 
 [![card](https://github-readme-stats.vercel.app/api?username=RenatoMCR&theme=radical&show_icons=true)](https://github.com/RenatoMCR/)[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMCR&hide=html&layout=compact&theme=radical)](https://github.com/RenatoMCR/)
 
